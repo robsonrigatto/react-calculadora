@@ -2,7 +2,7 @@ Projeto criado com o plugin [Create React App](https://github.com/facebook/creat
 
 ## Scripts disponíveis
 
-In the project directory, you can run:
+Segue comandos disponíveis:
 
 ### `npm start`
 
